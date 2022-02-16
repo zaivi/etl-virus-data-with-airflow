@@ -2,9 +2,9 @@
 
 ## The project schedule ETL workflow with Apache Airflow
 
-We perform crawling data from the website: https://www.worldometers.info/, 
+We perform crawling data from the website: https://www.worldometers.info/, then transform data for rightness and save data to local machine.
 
-Then transform data for rightness and save data to local machine.
+Thank to advantages of [Apache Airflow](https://airflow.apache.org/) - a tool for monitoring and scheduling jobs in an automated way, we take advantage of the tool applying on our project in order to schedule and automatic crawl data from the source.
 
 ## Stack
 * Version <table>
