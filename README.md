@@ -27,6 +27,12 @@ Thank to advantages of [Apache Airflow](https://airflow.apache.org/) - a tool fo
 
 <img src='instruction/img.PNG' alt='result in there'></img>
 
+## Explore data with [Github Flat Data](https://githubnext.com/projects/flat-data)
+
+Historical data is stored at ./data. Explore the master.csv by using Github Flat Viewer: https://flatgithub.com/zaivi/etl-virus-data-with-airflow/data
+
+<img src='instruction/flat_viewer.png' alt='result in there'></img>
+
 ## Guide to run the project
 * Step 1: Clone the project into your computer
 * Step 2: Activate Airflow environment: <b>source airflow-venv/bin/activate</b>
